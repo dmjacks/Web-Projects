@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-#mapIt.py - Launches a map in the browser using an address from the
+#mapIt.py - Launches Google maps in the browser using an address from the
 #command line or clipboard
 
 import webbrowser, sys, pyperclip
